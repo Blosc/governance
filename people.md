@@ -1,10 +1,14 @@
-# Steering Council and Institutional Partners
+# BDFL, Treasurer and Steering Council
 
 Names are followed by GitHub usernames.
 
 ## Benevolent Dictator for Life
 
 Francesc Alted (@FrancescAlted) is the Benevolent Dictator for Life (BDFL).
+
+## Treasurer
+
+Francesc Alted (@FrancescAlted) is the current treasurer of the project.
 
 ## Steering Council
 
