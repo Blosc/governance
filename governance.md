@@ -22,6 +22,8 @@ The Project Community consists of all Contributors and Users of the Project. Con
 
 It is important to stress out that, besides the maintenance of the Blosc version 1.x series (aka Blosc1) most of the development in the project now is happening in the next generation of Blosc, aka Blosc2, and specifically in the [C-Blosc2](https://github.com/Blosc/c-blosc2) project.  Among the improvements on the [C-Blosc2 development roadmap](https://github.com/Blosc/c-blosc2/blob/master/ROADMAP.md) are support of full 64-bit containers, support for more filters and larger filter pipelines, additional memory layouts for the containers, support for Blosc dataset persistence, and support for more architectures.  All of these improvements should conform to the current Blosc1 API and be backward-compatible with Blosc1 containers.
 
+Another important path of development under the Blosc project umbrella is happening at [Caterva](https://github.com/Blosc/Caterva), a C library for handling multi-dimensional, compressed datasets on top C-Blosc2 and its sister companion, the [cat4py](https://github.com/Blosc/cat4py) Python wrapper.  The work to be done is listed on the [Caterva roadmap](https://github.com/Blosc/Caterva/blob/master/ROADMAP.md).
+
 The Project is formally affiliated with the 501c3 NumFOCUS Foundation (https://numfocus.org), which serves as its fiscal sponsor, may hold project trademarks and other intellectual property, helps manage project donations and acts as a parent legal entity. NumFOCUS is the only legal entity that has a formal relationship with the project.
 
 Governance
