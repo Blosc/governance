@@ -12,6 +12,7 @@ Francesc Alted (@FrancescAlted) is the current treasurer of the project.
 
 ## Steering Council
 
+- J. David Ibáñez, @jdavid
 - Alberto Sabater, @albertosm27
 - Anthony Scopatz, @scopatz
 - Francesc Alted, @FrancescAlted
